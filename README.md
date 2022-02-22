@@ -1,6 +1,6 @@
 # Hundir la flota
 
-Poyecto - Bootcamp the Bridge
+Poyecto - Bootcamp The Bridge
 
 Instrucciones del juego:
 * Tablero de 10x10 casillas con 4 barcos de eslora 1, 3 barcos de eslora 2, 2 barcos de eslora 3 y 1 barco de eslora 4. El jugador puede posicionar sus barcos indicando las coordenadas `x,y` o puede posicionarlos aleatoriamente. Los barcos no podrán posicionarse juntos, deberán dejar como mínimo un cuadrado de distancia.
