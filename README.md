@@ -11,4 +11,4 @@ Implementaciones del juego:
 1. La partida inicia mostrando un mensaje al usuario y pidiendo un nombre de usuario.
 2. El usuario decidirá si desea posicionar manualmente sus barcos o si desea que se genere un tablero aleatorio. No se admiten posiciones que no respeten el cuadrado de distancia. El jugador irá viendo la colocación de sus barcos en el tablero a medida que lo va realizando. En el caso de Pythonisa, su tablero de barcos se generará aleatoriamente respetando el cuadrado de distancia.
 3. Si el usuario introduce coordenadas o direcciones incorrectas, se le avisará del error (número fuera de rango o carácter no válido) y le pedirá nuevamente el valor. 
-4. Con cada disparo, se informará al jugador de si ha habido fallo ('Agua') o acierto ('Barco tocado' o 'Barco Hundido'). Del mismo modo, irá viendo en su tablero los aciertos ('X') y fallos ('○').
+4. Con cada disparo, se informará al jugador de si ha habido fallo ('Agua') o acierto ('Barco tocado' o 'Barco Hundido'). Del mismo modo, irá viendo en su tablero los aciertos ('X') y los fallos ('○').
